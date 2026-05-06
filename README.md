@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
+Hi, I'm <a href="https://github.com/alifvirdioo"> Alif Virdio Yudhistira Widyawan </a>
  <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
 </h1>
 
@@ -31,17 +31,17 @@ Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
 > root :~ whoami 
 ```
 ```python
-> I am a Data Scientist and a ML | DL Developer 💻
-> I have a Bachelors in Computer Science from KTU 📚 - kerala,India
+> I am a AI Engineer and a ML | DL Developer 💻
+> I have a Bachelors Applied Science in Telecommunication Engineering from PENS 📚 - Surabaya, Indonesia
 > I have a strong interest in Data Science and AI 📝
-> Working on Deep Learning & Machine Learning 🔭
+> Working on Deep Learning, Machine Learning, and AI 🔭
 > Learning about DL , ML and mobile application development 👨‍💻 
 > Interested in Full Stack Machine Learning Application development 🚩
 
 > Committed to lifelong learning 💖
 ```
 
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />  <img src="https://gpvc.arturio.dev/adilrahman" alt="Profile views" align='right'/> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />  <a href="https://github.com/adilrahman/">
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />  <img src="https://gpvc.arturio.dev/adilrahman" alt="Profile views" align='right'/> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />  <a href="https://github.com/alifvirdioo/">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
 
 </br>
